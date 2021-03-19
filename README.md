@@ -18,3 +18,6 @@ tkinter
 run the script
 choose the <file>.pdf
 output file will appear in the same location as chosen file as <file_processed>.pdf
+
+# Examples
+Check the png example images. These contain screenshots of first page of an exaple pdf and it's processed solution.
